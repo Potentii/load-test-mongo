@@ -1,0 +1,70 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="TAB_SIZE" value="3" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </value>
+    </option>
+    <JSCodeStyleSettings version="0">
+      <option name="FILE_NAME_STYLE" value="LISP_CASE" />
+      <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+      <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+      <option name="ALIGN_IMPORTS" value="true" />
+      <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+      <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+    </JSCodeStyleSettings>
+    <codeStyleSettings language="CSS">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="CONTINUATION_INDENT_SIZE" value="3" />
+        <option name="TAB_SIZE" value="3" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="CONTINUATION_INDENT_SIZE" value="3" />
+        <option name="TAB_SIZE" value="3" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <option name="BLANK_LINES_AFTER_IMPORTS" value="3" />
+      <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+      <option name="INDENT_CASE_FROM_SWITCH" value="false" />
+      <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_IF_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_ELSE_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_WHILE_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_FOR_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_DO_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_SWITCH_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
+      <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="CONTINUATION_INDENT_SIZE" value="3" />
+        <option name="TAB_SIZE" value="3" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="3" />
+        <option name="CONTINUATION_INDENT_SIZE" value="3" />
+        <option name="TAB_SIZE" value="3" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

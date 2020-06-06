@@ -1,0 +1,10 @@
+version: '3'
+services:
+
+  mongo:
+    image: mongo:4.0.10-xenial
+    environment:
+      MONGO_INITDB_ROOT_USERNAME:
+      MONGO_INITDB_ROOT_PASSWORD:
+    ports:
+      - "27017:27017"
